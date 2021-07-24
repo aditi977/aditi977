@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm Aditi, a junior pursuing a B.S. in Computer Science with a minor in Human-Computer Interaction at Virginia Tech.
+
 <!--
 **aditi977/aditi977** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
