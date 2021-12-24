@@ -3,7 +3,7 @@
 I'm Aditi, a junior pursuing a B.S. in Computer Science with a minor in Human-Computer Interaction at Virginia Tech. Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/aditi-diwan/)! I'm always looking to try new things and learn new tools, so feel free to contact me to collaborate on something!
 
 <!-- ![Aditi's Github Stats](https://github-readme-stats.vercel.app/api?username=aditi977&count_private=true&theme=dark&showicons=true) -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aditi977&hide=jupyter+notebook&layout=compact&theme=outrun)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aditi977&hide=jupyter+notebook&layout=compact&theme=discord_old_blurple)
 <!--
 **aditi977/aditi977** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
