@@ -3,9 +3,9 @@
 I'm Aditi, a first-year MEng student at Virginia Tech. I've recently completed my B.S. in Computer Science & minor in Human-Computer Interaction at Virginia Tech. Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/aditi-diwan/)! I'm always looking to try new things and learn new tools, so feel free to contact me to collaborate on something!
 <br/>
 <br/>
-![Aditi's Github Stats](https://github-readme-stats.vercel.app/api?username=aditi977&count_private=true&theme=dracula&showicons=true&card_width=300&hide_title=true&layout=compact)
+![Aditi's Github Stats](https://github-readme-stats.vercel.app/api?username=aditi977&count_private=true&theme=dracula&showicons=true&card_width=300&hide_title=true&layout=compact&text_bold=false)
 &nbsp;
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aditi977&hide=jupyter+notebook&layout=compact&theme=dracula&card_width=420&langs_count=6&hide_title=false)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aditi977&hide=jupyter+notebook&layout=compact&theme=dracula&card_width=400&langs_count=6&hide_title=false)
 
 
 <!--
