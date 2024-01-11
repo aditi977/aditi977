@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Aditi, a first-year MEng student at Virginia Tech. I've recently completed my B.S. in Computer Science & minor in Human-Computer Interaction at Virginia Tech. Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/aditi-diwan/)! I'm always looking to try new things and learn new tools, so feel free to contact me to collaborate on something! I also keep [this](https://aditi977.github.io/) personal website fairly updated so check it out to see what I'm working on / have recently worked on 😄.
+I'm Aditi, a recent CS BS/MEng graduate Virginia Tech. In undergrad, I majored in Data-Centric Computing and minored in Human-Computer Interaction. Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/aditi-diwan/)! I'm always looking to try new things and learn new tools, so feel free to contact me to collaborate on something! I also keep [this](https://aditi977.github.io/) personal website fairly updated so check it out to see what I'm working on / have recently worked on 😄.
 <br/>
 <br/>
 <!-- ![Aditi's Github Stats](https://github-readme-stats.vercel.app/api?username=aditi977&count_private=true&theme=transparent&showicons=true&card_width=300&hide_title=true&layout=compact&text_bold=false)
